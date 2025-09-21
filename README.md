@@ -132,3 +132,5 @@ We'll focus on each platform: Windows, macOS, iOS, Android, and Web/PWA.***
 -   **Windows** (Windows 10, 11, 64-bit/32-bit)
 -   **macOS** (10.15 Catalina and later)
 -   **Linux** (Ubuntu, Fedora, Debian, etc., via .NET 7 runtime)
+
+<img width="549" height="150" alt="download" src="https://github.com/user-attachments/assets/c124447d-4984-4ff8-8b92-d34806ffbc21" />
