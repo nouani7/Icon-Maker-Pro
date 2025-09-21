@@ -133,5 +133,5 @@ We'll focus on each platform: Windows, macOS, iOS, Android, and Web/PWA.***
 -   **macOS** (10.15 Catalina and later)
 -   **Linux** (Ubuntu, Fedora, Debian, etc., via .NET 7 runtime)
 
-[<img width="400" height="109" alt="download" src="https://github.com/user-attachments/assets/e7124d15-ac00-41f6-a416-de9de7f2726e" />](https://github.com/nouani7/Icon-Maker-Pro/tree/v1.0.0)
+[<img width="400" height="109" alt="download" src="https://github.com/user-attachments/assets/e7124d15-ac00-41f6-a416-de9de7f2726e" />](https://github.com/nouani7/Icon-Maker-Pro/releases)
 
