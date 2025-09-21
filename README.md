@@ -62,10 +62,11 @@ Icon Maker Pro is a professional tool for creating high-quality icons for all ty
     
 -   Select the platforms you want to support (Windows, macOS, iOS, Android, Web).
     
--   Click **Export**, and all the required icon files are automatically generated in the chosen folder, ready to use in your project.
-تمام! هذي قائمة **كاملة بجميع أحجام الأيقونات لكل نظام**، جاهزة للاستعمال مع أي أداة مثل **Icon Maker Pro**. ستركز على كل منصة: Windows، macOS، iOS، Android، وWeb/PWA.
+-   Click Export, and all the required icon files are automatically generated in the chosen folder, ready to use in your project.
 
 ----------
+***hat's it! Here's a complete list of all icon sizes for each platform, ready to use with any tool like Icon Maker Pro. 
+We'll focus on each platform: Windows, macOS, iOS, Android, and Web/PWA.***
 
 ## 1️⃣ Windows (.ico)
 
